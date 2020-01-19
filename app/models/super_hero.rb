@@ -5,7 +5,7 @@ class SuperHero
   @@all = []
 
   def initialize(params)
-
+    @name = params[:name]
   end
 
 end
