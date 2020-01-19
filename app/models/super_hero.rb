@@ -10,4 +10,6 @@ class SuperHero
     @bio = params[:bio]
   end
 
+  def self.all
+
 end
