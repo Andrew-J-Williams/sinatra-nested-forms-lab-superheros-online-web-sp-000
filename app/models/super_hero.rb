@@ -12,4 +12,6 @@ class SuperHero
 
   def self.all
 
+  end
+
 end
