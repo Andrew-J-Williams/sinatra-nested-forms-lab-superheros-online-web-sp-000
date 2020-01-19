@@ -15,6 +15,8 @@ class App < Sinatra::Base
         SuperHero.new(details)
       end
 
+      @member
+
       erb :team
     end
 
